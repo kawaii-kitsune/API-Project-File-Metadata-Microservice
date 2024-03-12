@@ -1,0 +1,16 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.view {
+  margin-top: 20px;
+}
+
+.footer {
+  margin-top: 50px;
+}
